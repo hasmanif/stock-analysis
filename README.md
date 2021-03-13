@@ -13,7 +13,7 @@ The overall comparison between the 2017 and 2018 stock perfomances, we can notic
 ### Execution Times Between Original and Refractored Script
 With the use of the refractored script, we were able to see a significant decrease in execution time for the analysis of the data. Below are the execution times for each scenario:
 
-Orignal script execution time was 0.8671875 for 2017
+#####Orignal script execution time was 0.8671875 for 2017
 
 Orignal script execution time was 0.8984375 for 2018
 
