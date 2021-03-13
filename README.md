@@ -15,11 +15,11 @@ With the use of the refractored script, we were able to see a significant decrea
 
 ##### Orignal script execution time was 0.8671875 for 2017
 
-Orignal script execution time was 0.8984375 for 2018
+##### Orignal script execution time was 0.8984375 for 2018
 
-Refractored script execution time was 0.2460938 for 2017
+##### Refractored script execution time was 0.2460938 for 2017
 
-Refractored script execution time was 0.1914063 for 2018
+##### Refractored script execution time was 0.1914063 for 2018
 
 With further analyis of the execution times, the percentage decrease in time due to refractored code is 71.62% for 2017 and 78.70% for 2018. This can be extremely favorable when running this analysis on a much larger data set. If the data set was so large that it took the original script to execute the analysis in 1 minute, the refractored script would cut it down to approximately 15 seconds. It's fair to say that in some cases, less lines of code, that uses arrays, allow the code to work more efficiently using less RAM and time to reach the same goal.
 
