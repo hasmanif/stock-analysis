@@ -6,7 +6,7 @@ This project is a detailed analysis of a large set of stocks data in a macro-ena
 ## Results
 
 ### Comparison Between 2017 and 2018 Stock Performance
-![2017](VBA_Challenge_2017.png)
+![2017](resources/VBA_Challenge_2017.png)
 The overall comparison between the 2017 and 2018 stock perfomances, we can notice that majority of the 2017 stocks were in the green, a positive gain in their ticker price, versus 218 where majority of the stocks were red or negative. In 2017, the most traded stock was SPWR and least was DQ where in 2018 it was ENPH and AY respectively. After further analysis, the most successful stock over the years is ENPH where they had a 129.5% increase in 2017 and 81.9% increase in 2018. The only other stock to show a positive gain over the 2 years is RUN which had a minimal increase of 5.5% in 2017 and much larger increase of 84% in 2018. The only stock to have a negative decrease in both years was TERP. With this comparision, we can safely assume that ENPH would be the best stock to invest in and TERP would be the most unfavourable choice. 
 
 ### Execution Times Between Original and Refractored Script
